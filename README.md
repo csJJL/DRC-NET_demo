@@ -1,9 +1,9 @@
 # DRC-NET Demo
 This is a complementary demo for the paper *"DRC-NET: DENSELY CONNECTED RECURRENT CONVOLUTIONAL NEURAL NETWORK FOR SPEECH DEREVERBERATION"*
 
-- DRC-NET: our proposed model
+- *DRC-NET*: our proposed model
 
-- DRC-NET_causal: causal version of DRC-NET, by setting the convolution kernel size on time dimension to 1, and using unidirectional LSTM.
+- *DRC-NET_causal*: causal version of DRC-NET, by setting the convolution kernel size on time dimension to 1, and using unidirectional LSTM.
 
 - DRC-NET_mono: DRC-NET with single channel microphone input 
 
