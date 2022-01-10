@@ -1,4 +1,4 @@
-# DRC-NET Demos
+# DRC-NET Demo
 This is a complementary demo for the paper "DRC-NET: DENSELY CONNECTED RECURRENT CONVOLUTIONAL NEURAL NETWORK FOR SPEECH DEREVERBERATION"
 
 DRC-NET: our proposed model
