@@ -7,7 +7,7 @@ DRC-NET_causal: causal version of DRC-NET, by setting the convolution kernel siz
 
 DRC-NET_mono: DRC-NET with single channel microphone input 
 
-DRC-NET_causal_mono: causal DRC-NET with single channel microphone inpu
+DRC-NET_causal_mono: causal DRC-NET with single channel microphone input
 
 DenseNET: the baseline model[1]
 
